@@ -1,2 +1,4 @@
 #!/bin/bash
-ech "My bash script"
+echo "My bash script"
+date
+ls -lrt
