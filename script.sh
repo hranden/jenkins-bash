@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "My test bash script"
+echo "CPU Info"
+
+cat /proc/cpuinfo
