@@ -1,4 +1,2 @@
 #!/bin/bash
-echo "My bash script"
-date
-ls -lrt
+echo "My test bash script"
