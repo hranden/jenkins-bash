@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "CPU Info"
 
-echo testing
+date
+echo "testing pipeline"
