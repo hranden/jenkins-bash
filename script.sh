@@ -1,4 +1,4 @@
 #!/bin/bash
 
 date
-echo "testing pipeline"
+cat /proc/cpuinfo
